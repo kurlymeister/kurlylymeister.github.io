@@ -1,12 +1,8 @@
 baseurl      = "https://kurlymeister.github.io/"
-title        = "keeks"
+title        = "psychosocial.info"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
-
-[build]
-  [build.environment]
-    HUGO_VERSION = "0.130.0"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -15,7 +11,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "stuff"
+  homeSubtitle = "get in touch below"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -36,18 +32,8 @@ paginate     = 10
     tag      = "tags"
     series   = "series"
 
-[languages]
-  [languages.en]
-    title = "keeks"
-    keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
-
-  [languages.en.params]
-    subtitle  = "stuff and nonsense"
-
   # Colors for favicons
-  #
+  
   [params.favicon.color]
     mask = "#1b1c1d"
     msapplication = "#1b1c1d"
@@ -55,24 +41,26 @@ paginate     = 10
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "$ cd /home/"
+    logoText     = "/home"
     logoHomeLink = "/"
-    # Set true to remove the logo cursor entirely.
-    # logoCursorDisabled = false
-    # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
-    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
-    # logoCursorAnimate  = "2s"
-    # Append the current url pathname to logoText 
-    # logoCursorPathname = true
 
 
   # Menu
 
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+[[menu.main]]
+    name       = "research & news"
+    url        = "/research/"
+    weight     = "1"
+    
+[[menu.main]]
+    name       = "infographics"
+    url        = "/infographics"
+    weight     = "2"    
+
+[[menu.main]]
+    name       = "posters"
+    url        = "/posters"
+    weight     = "3"  
 
 
   # Custom footer 
@@ -81,7 +69,6 @@ paginate     = 10
     trademark = 2024
     rss = false
     copyright = false
-    author = false
 
     topText = []
     bottomText = [
