@@ -1,5 +1,5 @@
 baseurl      = "https://kurlymeister.github.io/"
-title        = "psychosocial.info"
+title        = "psychsafety.help"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
@@ -50,17 +50,17 @@ paginate     = 10
 [[menu.main]]
     name       = "research & news"
     url        = "/research/"
-    weight     = "1"
+    weight     = 1
     
 [[menu.main]]
     name       = "infographics"
     url        = "/infographics"
-    weight     = "2"    
+    weight     = 2    
 
 [[menu.main]]
     name       = "posters"
     url        = "/posters"
-    weight     = "3"  
+    weight     = 3  
 
 
   # Custom footer 
