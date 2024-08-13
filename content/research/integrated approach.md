@@ -1,5 +1,5 @@
 +++
-title = 'Developing an Integrated Approach to Workplace Mental Health'
+title = "Developing an Integrated Approach to Workplace Mental Health"
 date = 2018-06-14
 draft = false
 layout = "single"

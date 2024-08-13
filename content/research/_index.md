@@ -1,7 +1,6 @@
 +++
-title = 'research & news'
+title = "research"
 type = "research"
-date = 2024-08-05T20:34:13+10:00
 draft = false
 layout = "list"
 +++
