@@ -1,11 +1,11 @@
 +++
-title = "research"
-type = "research"
+title = "academic research"
+type = "academic research"
 draft = false
 layout = "list"
 +++
 
-This is a list of research articles that I have summarised using ChatGPT. 
+This is a list of research papers that I have summarised using ChatGPT. 
 
 Please be careful - there could be mistakes. 
 
