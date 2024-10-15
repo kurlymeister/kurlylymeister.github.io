@@ -1,6 +1,6 @@
 +++
 title = "Workplace and work-related violence and aggression in Australia"
-date = 2024-08
+date = 2024-08-01
 draft = false
 layout = "single"
 +++
