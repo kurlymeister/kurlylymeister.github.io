@@ -50,7 +50,7 @@ paginate     = 10
   # Menu
 
 [[menu.main]]
-    name       = "research"
+    name       = "academic research"
     url        = "/research/"
     weight     = 1  
 
