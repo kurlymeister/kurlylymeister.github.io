@@ -5,7 +5,6 @@ draft = false
 layout = "single"
 +++
 
-*Channel 9 -- Independent report into workplace culture* 
 
 **Link to original report:** https://www.nineforbrands.com.au/media-release/nine-entertainment-releases-culture-review-findings/
 
@@ -27,7 +26,7 @@ The independent review by Intersection Pty Ltd for Nine Entertainment Corporatio
 - **Workplace Behaviors**: 52% reported experiencing or witnessing abuse of power, 49% reported bullying/discrimination, and 24% reported sexual harassment.
 - **Gender Disparities**: Women faced higher rates of inappropriate behaviors across all areas.
 
-# Recommendations Overview
+# Recommendations
 
 - **Foundational Actions**: Issue a formal acknowledgment and strengthen leadership accountability.
 - **Policy Enhancements**: Update workplace behavior policies and processes.
@@ -36,15 +35,8 @@ The independent review by Intersection Pty Ltd for Nine Entertainment Corporatio
 
 # Background and Methodology
 
-Legal changes in Australian workplace laws regarding safety and harassment catalyzed this review. The media's societal role underscores Nine's cultural integrity. The review combined surveys, interviews, submissions, and policy analysis to provide a comprehensive assessment.
+Legal changes in Australian workplace laws regarding safety and harassment catalyzed this review. The review combined surveys, interviews, submissions, and policy analysis to provide a comprehensive assessment.
 
-# Broadcast Division Findings
-
-The Broadcast Division exhibited pervasive issues stemming from leadership deficiencies, a high-pressure environment, and gendered power dynamics. Women reported significant exposure to harassment and casual sexism. Reporting mechanisms were perceived as ineffective. Recommendations centered on accountability, transparent processes, and enhanced leadership training.
-
-# Whole of Nine Entertainment Findings
-
-Survey data revealed similar, though varied, issues across other divisions, with pervasive gender-based disparities and leadership deficiencies. Recommendations highlighted the need for cultural change, driven by transparency, consistent training, and creating a safe reporting culture.
 
 # Conclusion
 
