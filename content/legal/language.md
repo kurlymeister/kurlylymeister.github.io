@@ -7,19 +7,19 @@ layout = "single"
 
 
 **Link to original report:** https://criminalcpd.net.au/wp-content/uploads/2023/08/2023-Dog-Arse-Cunts-Mark-Dennis-SC-2-2.pdf 
----
 
-## Introduction
+
+# Introduction
 This paper, written from an Aboriginal Legal Service (ALS) defence perspective, discusses the legal interpretations of "offensive language" and "offensive manner," with references to case law. It highlights strategic approaches to defence in these cases.
 
 ---
 
-## Definition of "Offensive"
+# Definition of "Offensive"
 The common law definition, as established in *Worcester v Smith (1951)* and elaborated in *Ball v McIntyre (1966)*, describes "offensive" as conduct calculated to wound feelings or arouse anger, resentment, or disgust in a reasonable person. Not all improper or hurtful behavior qualifies as legally offensive.
 
 ---
 
-## Tactical Uses of the Definition
+# Tactical Uses of the Definition
 1. **Intention**: Arguing "calculated" implies intent, adding a mens rea component to the prosecution's burden of proof.
 2. **"Mind the Gap"**: Distinguishing conduct that is improper or hurtful from what legally qualifies as offensive.
 3. **Broadening the Gap**: Leveraging cases like *Nelson v Mathieson (2003)* to argue that contemporary standards tolerate certain behaviors.
@@ -27,27 +27,27 @@ The common law definition, as established in *Worcester v Smith (1951)* and elab
 
 ---
 
-## Mens Rea of "Offensive"
+# Mens Rea of "Offensive"
 The inclusion of intent ("calculated") in the definition aligns with *He Kaw Teh (1985)*, which established that mens rea is presumed unless explicitly excluded by statute. There is inconsistency across jurisdictions regarding whether intent is required.
 
 ---
 
-## "Fuck" and "Cunt" as Offensive Language
+# "Fuck" and "Cunt" as Offensive Language
 Courts have not consistently ruled whether such terms are inherently offensive. Context, including use as intensifiers or expletives, and evolving contemporary standards play significant roles in determining offensiveness.
 
 ---
 
-## Offensive Manner
+# Offensive Manner
 Under NSW law, offensive manner requires more than offensive language. Behavior is judged in totality, including physical actions, tone, and context, as highlighted in *Burns v Seagrave (2000)*.
 
 ---
 
-## The Reasonable Person
+# The Reasonable Person
 This legal construct, as discussed in *Ball v McIntyre (1966)* and *Monis v The Queen (2013)*, represents a reasonably tolerant and contemporary standard of judgment. What is deemed offensive evolves with societal norms.
 
 ---
 
-## Contextual Considerations
+# Contextual Considerations
 The surrounding circumstances of an alleged offence, including location and expected presence of others, significantly influence legal outcomes. Cases like *Stutsel v Reid (1990)* emphasize the role of context in evaluating offensiveness.
 
 ---

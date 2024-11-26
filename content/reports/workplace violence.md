@@ -5,8 +5,6 @@ draft = false
 layout = "single"
 +++
 
-*Safe Work Australia -- Data report* 
-
 **Link to original report:** https://data.safeworkaustralia.gov.au/report/work-related-violence-aggression-australia 
 
 ## 1 Background
