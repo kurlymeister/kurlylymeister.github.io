@@ -59,6 +59,11 @@ paginate     = 10
     url        = "/reports"
     weight     = 2
 
+[[menu.main]]
+    name       = "legal matters"
+    url        = "/legal"
+    weight     = 3
+
 
   # Custom footer 
 
